@@ -1,6 +1,6 @@
 # Python Basics and Exercise solutions
 
-*Autor: Beatriz Golindano*
+***Autor**: Beatriz Golindano*
 
 1. Python Object and Data Structure Basic Test.
 2. Python Statements Exercises.
