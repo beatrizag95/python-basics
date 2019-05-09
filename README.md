@@ -1,2 +1,4 @@
-# python-basics
-Python basic training and exercise solutions
+# Python Basics and Exercise solutions
+
+*Autor: Beatriz Golindano*
+
